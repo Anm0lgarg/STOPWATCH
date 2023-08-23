@@ -8,4 +8,7 @@
 #languages using 
   * HTML
   * CSS
-  * JAVASCRIPT 
+  * JAVASCRIPT
+
+#DEPLOYMENT
+https://meristopwatch.netlify.app/
